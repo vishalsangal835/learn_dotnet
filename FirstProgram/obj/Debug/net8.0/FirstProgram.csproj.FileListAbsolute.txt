@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\bin\Debug\net8.0\FirstProgram.exe
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\bin\Debug\net8.0\FirstProgram.deps.json
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\bin\Debug\net8.0\FirstProgram.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\bin\Debug\net8.0\FirstProgram.dll
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\bin\Debug\net8.0\FirstProgram.pdb
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.sourcelink.json
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.dll
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\refint\FirstProgram.dll
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.pdb
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\ref\FirstProgram.dll
