@@ -1,10 +1,10 @@
 using System;
 
-namespace HelloWorld
+namespace HelloWorld1
 {
     class TypeConversion
     {
-        static void Main(string[] args)
+        public static void TypeConversion1()
         {
             // impicit conversion
             int num = 12390532;
@@ -113,10 +113,10 @@ namespace HelloWorld
             System.Console.WriteLine($"{a}, {b}, {c}, {d}, {e}, {f}, {g}, {h}, {i},{j}");
 
             int number = int.Parse(k);
-            var number1 = 0;  //int
-            number1 = 5;
-            var str = "kkkk";  //string
-            var isExist = true; //boolean
+            // var number1 = 0;  //int
+            // number1 = 5;
+            //var str = "kkkk";  //string
+            //var isExist = true; //boolean
 
             // var isNull=null;      -> error -> if u declared any variable with var keyword then always
             // initialize at the time of declaration
@@ -127,12 +127,12 @@ namespace HelloWorld
             // at compile time and do not change for the life of the program. 
 
             // constants as fields
-            const double PI = 3.14159265359;
-            const int weeks = 52, months = 12;
+            //const double PI = 3.14159265359;
+            // const int weeks = 52, months = 12;
             // Create a constant of type string with your birthday as its value
             const string birthday = "31.05.1988";
-            const string birthday2 = "05.31.1988";
-            const string birthday3 = "2018-05-31";
+            // const string birthday2 = "05.31.1988";
+            // const string birthday3 = "2018-05-31";
             Console.WriteLine("My birthday is always going to be: {0}", birthday);
             Console.ReadKey();
 

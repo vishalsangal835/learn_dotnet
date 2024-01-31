@@ -7,7 +7,6 @@ C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstP
 C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.AssemblyInfoInputs.cache
 C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.AssemblyInfo.cs
 C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.csproj.CoreCompileInputs.cache
-C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.sourcelink.json
 C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.dll
 C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\refint\FirstProgram.dll
 C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.pdb
