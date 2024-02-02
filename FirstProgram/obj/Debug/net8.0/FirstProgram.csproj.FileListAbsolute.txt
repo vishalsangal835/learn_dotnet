@@ -12,3 +12,4 @@ C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\refint
 C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.pdb
 C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.genruntimeconfig.cache
 C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\ref\FirstProgram.dll
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\FirstProgram\obj\Debug\net8.0\FirstProgram.sourcelink.json

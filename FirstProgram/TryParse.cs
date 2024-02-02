@@ -1,6 +1,8 @@
 using System;
+using System.Runtime.InteropServices;
 using ClassesAndObjects;
 using MembersC;
+
 
 
 namespace HelloWorld
@@ -83,12 +85,17 @@ namespace HelloWorld
             // MultiDimensionalArrays.Program.MultiDimension();
             // Members member1 = new Members();
             // member1.Introducing(true);
-            NestedForLoops.NestedFor.NestedFor2dArray();
-            Console.ReadKey();
-            ArraysAsParameters.Program.ArrayAsParameter();
-
-            _07___JaggedArray.Program.JaggedArray();
-
+            // NestedForLoops.NestedFor.NestedFor2dArray();
+            // Console.ReadKey();
+            // ArraysAsParameters.Program.ArrayAsParameter();
+            // Params.Params1.Params(1, 2, 34, 5);
+            // _07___JaggedArray.Program.JaggedArray();
+            // System.Console.WriteLine(_07_Minimum.MinimumNumber.MinimumValue1(6, 4, 2, -1, 0, 8, -9, -7));
+            // ArrayList_01.ArrayList_1.ArrayList2();
+            //_01_hash.HashTable1.HashTable2();
+            //  HashAssign.HashAssign1.HashAssign2();
+            // _Dictionary.DictionaryEntry1.DictionaryEntry2();
+            XYZ.AX.Calc();
             Console.Read();
         }
 
