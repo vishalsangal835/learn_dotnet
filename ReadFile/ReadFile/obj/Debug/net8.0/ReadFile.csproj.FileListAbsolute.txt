@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\ReadFile\ReadFile\bin\Debug\net8.0\ReadFile.exe
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\ReadFile\ReadFile\bin\Debug\net8.0\ReadFile.deps.json
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\ReadFile\ReadFile\bin\Debug\net8.0\ReadFile.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\ReadFile\ReadFile\bin\Debug\net8.0\ReadFile.dll
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\ReadFile\ReadFile\bin\Debug\net8.0\ReadFile.pdb
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.sourcelink.json
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.dll
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\ReadFile\ReadFile\obj\Debug\net8.0\refint\ReadFile.dll
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.pdb
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\ReadFile\ReadFile\obj\Debug\net8.0\ReadFile.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\ReadFile\ReadFile\obj\Debug\net8.0\ref\ReadFile.dll
