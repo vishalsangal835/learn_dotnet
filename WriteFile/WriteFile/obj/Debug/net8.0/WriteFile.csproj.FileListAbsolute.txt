@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\WriteFile\WriteFile\bin\Debug\net8.0\WriteFile.exe
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\WriteFile\WriteFile\bin\Debug\net8.0\WriteFile.deps.json
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\WriteFile\WriteFile\bin\Debug\net8.0\WriteFile.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\WriteFile\WriteFile\bin\Debug\net8.0\WriteFile.dll
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\WriteFile\WriteFile\bin\Debug\net8.0\WriteFile.pdb
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\WriteFile\WriteFile\obj\Debug\net8.0\WriteFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\WriteFile\WriteFile\obj\Debug\net8.0\WriteFile.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\WriteFile\WriteFile\obj\Debug\net8.0\WriteFile.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\WriteFile\WriteFile\obj\Debug\net8.0\WriteFile.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\WriteFile\WriteFile\obj\Debug\net8.0\WriteFile.sourcelink.json
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\WriteFile\WriteFile\obj\Debug\net8.0\WriteFile.dll
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\WriteFile\WriteFile\obj\Debug\net8.0\refint\WriteFile.dll
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\WriteFile\WriteFile\obj\Debug\net8.0\WriteFile.pdb
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\WriteFile\WriteFile\obj\Debug\net8.0\WriteFile.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\WriteFile\WriteFile\obj\Debug\net8.0\ref\WriteFile.dll
