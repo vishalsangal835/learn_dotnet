@@ -24,7 +24,7 @@ namespace FileIOc
             string fileName = Console.ReadLine();
             Console.WriteLine("Please enter the text for the file");
             string input = Console.ReadLine();
-            File.WriteAllText(@"C:\Users\DELL\OneDrive\Desktop\dotnet learn" + fileName + ".txt", input);
+            File.WriteAllText(@"C:\Users\DELL\OneDrive\Desktop\dotnet learn\" + fileName + ".txt", input);
             /*
             // Method 3
             using (StreamWriter file = new StreamWriter(@"C:\Users\DELL\OneDrive\Desktop\dotnet learn\myText2.txt"))
