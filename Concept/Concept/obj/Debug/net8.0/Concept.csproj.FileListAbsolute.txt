@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\Concept\Concept\obj\Debug\net8.0\Concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\Concept\Concept\obj\Debug\net8.0\Concept.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\Concept\Concept\obj\Debug\net8.0\Concept.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\Concept\Concept\obj\Debug\net8.0\Concept.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\Concept\Concept\obj\Debug\net8.0\Concept.sourcelink.json
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\Concept\Concept\bin\Debug\net8.0\Concept.exe
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\Concept\Concept\bin\Debug\net8.0\Concept.deps.json
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\Concept\Concept\bin\Debug\net8.0\Concept.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\Concept\Concept\bin\Debug\net8.0\Concept.dll
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\Concept\Concept\bin\Debug\net8.0\Concept.pdb
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\Concept\Concept\obj\Debug\net8.0\Concept.dll
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\Concept\Concept\obj\Debug\net8.0\refint\Concept.dll
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\Concept\Concept\obj\Debug\net8.0\Concept.pdb
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\Concept\Concept\obj\Debug\net8.0\Concept.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\dotnet learn\Concept\Concept\obj\Debug\net8.0\ref\Concept.dll
